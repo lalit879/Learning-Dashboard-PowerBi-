@@ -37,7 +37,7 @@ This project presents a comprehensive Power BI dashboard that analyzes learner e
 
 ## 📷 Screenshot
 
-![Dashboard](https://raw.githubusercontent.com/your-username/your-repo/main/images/screenshot.png)
+![Dashboard](https://github.com/GarimaSingh0109/Learning-Dashboard-PowerBi-/blob/main/Screenshot%202025-05-04%20131517.png)
 
 
 
